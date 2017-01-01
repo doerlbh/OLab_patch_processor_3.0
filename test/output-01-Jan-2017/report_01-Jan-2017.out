@@ -1,0 +1,338 @@
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+01-Jan-2017
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index:0.011536
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index:0.27542
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index:0.65883
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index:0.75417
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index:0.80021
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index:0.55323
+quantipatch
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-01-Jan-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+01-Jan-2017
+
+si =
+
+    0.0138
+
+
+si =
+
+    0.0093
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index:0.011536
+
+si =
+
+    0.3386
+
+
+si =
+
+    0.2123
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index:0.27542
+
+si =
+
+    0.6466
+
+
+si =
+
+    0.6711
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index:0.65883
+
+si =
+
+    0.7423
+
+
+si =
+
+    0.7660
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index:0.75417
+
+si =
+
+    0.7787
+
+
+si =
+
+    0.8217
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index:0.80021
+
+si =
+
+    0.6367
+
+
+si =
+
+    0.4697
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index:0.55323
+quantipatch
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-01-Jan-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+01-Jan-2017
+
+si =
+
+    0.0138
+
+
+flat =
+
+   442
+
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mean', '/Applications/Work/MATLAB_R2015b.app/toolbox/matlab/datafun/mean.m', 66)" style="font-weight:bold">mean</a> (<a href="matlab: opentoline('/Applications/Work/MATLAB_R2015b.app/toolbox/matlab/datafun/mean.m',66,0)">line 66</a>)
+    [flag, omitnan] = parseInputs(flag, flag2, isFlag2Set);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('striatindex', '/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/striatindex.m', 22)" style="font-weight:bold">striatindex</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/striatindex.m',22,0)">line 22</a>)
+mean
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex', '/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/patchindex.m', 12)" style="font-weight:bold">patchindex</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/patchindex.m',12,0)">line 12</a>)
+xindex = striatindex(image.');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch', '/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/quantipatch.m', 42)" style="font-weight:bold">quantipatch</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/quantipatch.m',42,0)">line 42</a>)
+    pi = patchindex(file);
+} 
+quantipatch
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-01-Jan-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+01-Jan-2017
+
+si =
+
+    0.0138
+
+
+flat =
+
+   442
+
+
+ans =
+
+  448.1895
+
+
+si =
+
+    0.0093
+
+
+flat =
+
+   146
+
+
+ans =
+
+  147.3650
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index:0.011536
+
+si =
+
+    0.3386
+
+
+flat =
+
+   538
+
+
+ans =
+
+  813.3658
+
+
+si =
+
+    0.2123
+
+
+flat =
+
+   190
+
+
+ans =
+
+  241.2030
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index:0.27542
+
+si =
+
+    0.6466
+
+
+flat =
+
+   340
+
+
+ans =
+
+  962.1202
+
+
+si =
+
+    0.6711
+
+
+flat =
+
+   137
+
+
+ans =
+
+  416.4779
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index:0.65883
+
+si =
+
+    0.7423
+
+
+flat =
+
+   406
+
+
+ans =
+
+   1.5755e+03
+
+
+si =
+
+    0.7660
+
+
+flat =
+
+   179
+
+
+ans =
+
+  765.0738
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index:0.75417
+
+si =
+
+    0.7787
+
+
+flat =
+
+   372
+
+
+ans =
+
+   1.6808e+03
+
+
+si =
+
+    0.8217
+
+
+flat =
+
+    99
+
+
+ans =
+
+  555.3629
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index:0.80021
+
+si =
+
+    0.6367
+
+
+flat =
+
+   459
+
+
+ans =
+
+   1.2635e+03
+
+
+si =
+
+    0.4697
+
+
+flat =
+
+   148
+
+
+ans =
+
+  279.1051
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index:0.55323

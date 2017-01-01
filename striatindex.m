@@ -16,6 +16,11 @@ curve = sum(veclength, 2);
 
 si = 1 - flat/mean(curve);
 
+% % debug algorithm
+% si
+% flat
+% mean(curve)
+
 end
 
 
