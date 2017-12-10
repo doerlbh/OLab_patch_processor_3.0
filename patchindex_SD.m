@@ -10,8 +10,8 @@ function [pi_curve, pi_sd] = patchindex_SD(file)
 image = imread(file);
 image = cast(image,'double'); 
 image = normimag(image);
-[xsi_curve, xsi_sd] = striatindex(image.');
-[ysi_curve, ysi_sd] = striatindex(image);
+[xsi_curve, xsi_sd] = striatindex_SD(image.');
+[ysi_curve, ysi_sd] = striatindex_SD(image);
 
 % patch index from curve method
 pi_curve = (xsi_curve + ysi_curve)/2;

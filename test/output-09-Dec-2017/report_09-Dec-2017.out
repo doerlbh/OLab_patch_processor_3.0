@@ -1,0 +1,595 @@
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex')" style="font-weight:bold">patchindex</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m', 42)" style="font-weight:bold">quantipatch_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m',42,0)">line 42</a>)
+    [pi_curve, pi_sd] = patchindex(file);
+} 
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+{Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m', 20)" style="font-weight:bold">patchindex_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m',20,0)">line 20</a>)
+pi_sd = (xsi_sd + ysi_sd)/2;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m', 42)" style="font-weight:bold">quantipatch_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m',42,0)">line 42</a>)
+    [pi_curve, pi_sd] = patchindex_SD(file);
+} 
+opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m',20,0)
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+
+ans =
+
+     1   442
+
+
+ans =
+
+     1   146
+
+
+xsi_sd =
+
+  Columns 1 through 7
+
+    0.1139    0.1345    0.1417    0.1325    0.1191    0.1382    0.1139
+
+  Columns 8 through 14
+
+    0.1364    0.1364    0.1345    0.1262    0.1166    0.1464    0.1382
+
+  Columns 15 through 21
+
+    0.1345    0.1433    0.1305    0.1052    0.1284    0.1052    0.1400
+
+  Columns 22 through 28
+
+    0.1417    0.1345    0.1239    0.1305    0.1284    0.1325    0.1262
+
+  Columns 29 through 35
+
+    0.1216    0.1239    0.1449    0.1111    0.1305    0.1493    0.1262
+
+  Columns 36 through 42
+
+    0.1262    0.1520    0.1191    0.1052    0.1284    0.1284    0.1305
+
+  Columns 43 through 49
+
+    0.1325    0.1216    0.1216    0.1417    0.1364    0.1305    0.1139
+
+  Columns 50 through 56
+
+    0.1507    0.1166    0.1433    0.1382    0.1216    0.1345    0.1139
+
+  Columns 57 through 63
+
+    0.1262    0.1262    0.1345    0.1400    0.1364    0.1433    0.1364
+
+  Columns 64 through 70
+
+    0.1284    0.1239    0.1507    0.1262    0.1417    0.1239    0.1262
+
+  Columns 71 through 77
+
+    0.1191    0.1325    0.1382    0.1262    0.1417    0.1191    0.1382
+
+  Columns 78 through 84
+
+    0.1325    0.1191    0.1284    0.1345    0.1305    0.1305    0.1284
+
+  Columns 85 through 91
+
+    0.1325    0.1417    0.1262    0.1417    0.1239    0.1325    0.1216
+
+  Columns 92 through 98
+
+    0.1325    0.1191    0.1284    0.1325    0.1239    0.1262    0.1345
+
+  Columns 99 through 105
+
+    0.1325    0.1191    0.1345    0.1166    0.1284    0.1382    0.1479
+
+  Columns 106 through 112
+
+    0.1305    0.1216    0.1382    0.1082    0.1400    0.1400    0.1305
+
+  Columns 113 through 119
+
+    0.1417    0.1345    0.1239    0.1325    0.1400    0.1400    0.1400
+
+  Columns 120 through 126
+
+    0.1433    0.1364    0.1449    0.1382    0.1191    0.1166    0.1284
+
+  Columns 127 through 133
+
+    0.1284    0.1191    0.1284    0.1325    0.1345    0.1305    0.1216
+
+  Columns 134 through 140
+
+    0.1239    0.1345    0.1216    0.1417    0.1433    0.1191    0.1239
+
+  Columns 141 through 147
+
+    0.1191    0.1364    0.1262    0.1262    0.1382    0.1239    0.1449
+
+  Columns 148 through 154
+
+    0.1433    0.1464    0.1239    0.1191    0.1239    0.1216    0.1364
+
+  Columns 155 through 161
+
+    0.1239    0.1449    0.1325    0.1417    0.1305    0.1305    0.1305
+
+  Columns 162 through 168
+
+    0.1305    0.1139    0.1305    0.1262    0.1284    0.1262    0.1325
+
+  Columns 169 through 175
+
+    0.1433    0.1082    0.1400    0.1400    0.1262    0.1262    0.1507
+
+  Columns 176 through 182
+
+    0.1417    0.1479    0.1325    0.1364    0.1262    0.1082    0.1464
+
+  Columns 183 through 189
+
+    0.1364    0.1166    0.1239    0.1191    0.1239    0.1325    0.1382
+
+  Columns 190 through 196
+
+    0.1262    0.1239    0.1239    0.1262    0.1111    0.1082    0.1345
+
+  Columns 197 through 203
+
+    0.1305    0.1382    0.1216    0.1166    0.1239    0.1284    0.1239
+
+  Columns 204 through 210
+
+    0.1325    0.1364    0.1166    0.1305    0.1305    0.1305    0.1284
+
+  Columns 211 through 217
+
+    0.1020    0.1191    0.1262    0.1239    0.1400    0.1166    0.1166
+
+  Columns 218 through 224
+
+    0.1239    0.1345    0.1325    0.1382    0.1262    0.1325    0.1400
+
+  Columns 225 through 231
+
+    0.1305    0.1262    0.1284    0.1139    0.1382    0.1216    0.1262
+
+  Columns 232 through 238
+
+    0.1020    0.1284    0.1345    0.1139    0.1400    0.1305    0.1433
+
+  Columns 239 through 245
+
+    0.1191    0.1191    0.1216    0.1262    0.1400    0.1262    0.1400
+
+  Columns 246 through 252
+
+    0.1449    0.1400    0.1364    0.1139    0.1400    0.1325    0.1400
+
+  Columns 253 through 259
+
+    0.1239    0.1345    0.1449    0.1345    0.1139    0.1464    0.1284
+
+  Columns 260 through 266
+
+    0.1364    0.1345    0.1082    0.1262    0.1284    0.1052    0.1239
+
+  Columns 267 through 273
+
+    0.1464    0.1239    0.1364    0.1239    0.1345    0.1191    0.1464
+
+  Columns 274 through 280
+
+    0.1239    0.1239    0.1345    0.1052    0.1262    0.1382    0.1191
+
+  Columns 281 through 287
+
+    0.1325    0.1216    0.1305    0.1345    0.1284    0.1345    0.1400
+
+  Columns 288 through 294
+
+    0.1239    0.1382    0.1166    0.1139    0.1191    0.1284    0.1305
+
+  Columns 295 through 301
+
+    0.1191    0.1216    0.1325    0.1433    0.1216    0.1417    0.1191
+
+  Columns 302 through 308
+
+    0.1284    0.1139    0.1111    0.1216    0.1325    0.1449    0.1139
+
+  Columns 309 through 315
+
+    0.1417    0.1305    0.1305    0.1400    0.1479    0.1417    0.1216
+
+  Columns 316 through 322
+
+    0.1191    0.1191    0.1345    0.1345    0.1082    0.1262    0.1325
+
+  Columns 323 through 329
+
+    0.1305    0.1305    0.1284    0.1345    0.1284    0.1191    0.1417
+
+  Columns 330 through 336
+
+    0.1345    0.1166    0.1345    0.1191    0.1364    0.1345    0.1284
+
+  Columns 337 through 343
+
+    0.1305    0.1284    0.0987    0.1284    0.1400    0.1325    0.1400
+
+  Columns 344 through 350
+
+    0.1284    0.1239    0.1284    0.1305    0.1325    0.1216    0.1262
+
+  Columns 351 through 357
+
+    0.1082    0.1262    0.1239    0.1364    0.1382    0.1216    0.1216
+
+  Columns 358 through 364
+
+    0.1216    0.1239    0.1325    0.1284    0.1433    0.1305    0.1082
+
+  Columns 365 through 371
+
+    0.1382    0.1400    0.1111    0.1364    0.1449    0.1284    0.1191
+
+  Columns 372 through 378
+
+    0.1216    0.1449    0.1417    0.1400    0.1284    0.1345    0.1382
+
+  Columns 379 through 385
+
+    0.1305    0.1284    0.1382    0.1262    0.1262    0.1479    0.1216
+
+  Columns 386 through 392
+
+    0.1417    0.1364    0.1364    0.1191    0.1262    0.1284    0.1305
+
+  Columns 393 through 399
+
+    0.1382    0.1166    0.1191    0.1325    0.1305    0.1400    0.1325
+
+  Columns 400 through 406
+
+    0.1417    0.1111    0.1364    0.1262    0.1305    0.1239    0.1305
+
+  Columns 407 through 413
+
+    0.1345    0.1262    0.1382    0.1166    0.1449    0.1382    0.1216
+
+  Columns 414 through 420
+
+    0.1364    0.1262    0.1191    0.1345    0.1325    0.1262    0.1191
+
+  Columns 421 through 427
+
+    0.1305    0.1111    0.1239    0.1305    0.1305    0.1400    0.1262
+
+  Columns 428 through 434
+
+    0.1284    0.1345    0.1433    0.1364    0.1216    0.1325    0.1052
+
+  Columns 435 through 441
+
+    0.1449    0.1400    0.1239    0.1082    0.1020    0.1020    0.1493
+
+  Column 442
+
+    0.1284
+
+
+ysi_sd =
+
+  Columns 1 through 7
+
+    0.1356    0.1283    0.1232    0.1158    0.1297    0.1192    0.1324
+
+  Columns 8 through 14
+
+    0.1318    0.1318    0.1311    0.1276    0.1254    0.1350    0.1356
+
+  Columns 15 through 21
+
+    0.1297    0.1224    0.1331    0.1337    0.1311    0.1239    0.1216
+
+  Columns 22 through 28
+
+    0.1344    0.1224    0.1344    0.1356    0.1232    0.1409    0.1216
+
+  Columns 29 through 35
+
+    0.1167    0.1324    0.1318    0.1175    0.1392    0.1318    0.1331
+
+  Columns 36 through 42
+
+    0.1350    0.1167    0.1297    0.1200    0.1297    0.1200    0.1208
+
+  Columns 43 through 49
+
+    0.1350    0.1239    0.1311    0.1283    0.1247    0.1262    0.1337
+
+  Columns 50 through 56
+
+    0.1318    0.1239    0.1398    0.1269    0.1247    0.1269    0.1374
+
+  Columns 57 through 63
+
+    0.1247    0.1290    0.1192    0.1283    0.1374    0.1368    0.1356
+
+  Columns 64 through 70
+
+    0.1304    0.1297    0.1269    0.1331    0.1262    0.1344    0.1297
+
+  Columns 71 through 77
+
+    0.1425    0.1392    0.1362    0.1297    0.1297    0.1216    0.1304
+
+  Columns 78 through 84
+
+    0.1239    0.1208    0.1290    0.1362    0.1362    0.1304    0.1254
+
+  Columns 85 through 91
+
+    0.1239    0.1304    0.1311    0.1318    0.1224    0.1290    0.1283
+
+  Columns 92 through 98
+
+    0.1276    0.1276    0.1304    0.1304    0.1276    0.1311    0.1276
+
+  Columns 99 through 105
+
+    0.1297    0.1368    0.1247    0.1224    0.1337    0.1324    0.1224
+
+  Columns 106 through 112
+
+    0.1409    0.1318    0.1297    0.1337    0.1283    0.1262    0.1304
+
+  Columns 113 through 119
+
+    0.1311    0.1150    0.1290    0.1392    0.1344    0.1324    0.1297
+
+  Columns 120 through 126
+
+    0.1297    0.1324    0.1254    0.1331    0.1414    0.1398    0.1276
+
+  Columns 127 through 133
+
+    0.1304    0.1239    0.1350    0.1269    0.1311    0.1380    0.1356
+
+  Columns 134 through 140
+
+    0.1362    0.1331    0.1350    0.1239    0.1262    0.1269    0.1262
+
+  Columns 141 through 146
+
+    0.1297    0.1216    0.1224    0.1420    0.1331    0.1350
+
+{Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m', 24)" style="font-weight:bold">patchindex_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m',24,0)">line 24</a>)
+pi_sd = (xsi_sd + ysi_sd)/2;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m', 42)" style="font-weight:bold">quantipatch_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m',42,0)">line 42</a>)
+    [pi_curve, pi_sd] = patchindex_SD(file);
+} 
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+
+ans =
+
+     1   442
+
+
+ans =
+
+     1   146
+
+{Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m', 24)" style="font-weight:bold">patchindex_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m',24,0)">line 24</a>)
+pi_sd = (xsi_sd + ysi_sd)/2;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m', 42)" style="font-weight:bold">quantipatch_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m',42,0)">line 42</a>)
+    [pi_curve, pi_sd] = patchindex_SD(file);
+} 
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+
+Xsize =
+
+   146   442
+
+
+Xsize =
+
+   442   146
+
+{Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patchindex_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m', 24)" style="font-weight:bold">patchindex_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/patchindex_SD.m',24,0)">line 24</a>)
+pi_sd = (xsi_sd + ysi_sd)/2;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('quantipatch_SD', '/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m', 42)" style="font-weight:bold">quantipatch_SD</a> (<a href="matlab: opentoline('/Users/DoerLBH/Dropbox (Personal)/git/OLab_patch_processor_3.0/quantipatch_SD.m',42,0)">line 42</a>)
+    [pi_curve, pi_sd] = patchindex_SD(file);
+} 
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+
+Xsize =
+
+   146   442
+
+
+Xsize =
+
+   442   146
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index (curve method):0.011536
+patch index (sd method):0.1295
+
+Xsize =
+
+   190   538
+
+
+Xsize =
+
+   538   190
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index (curve method):0.27542
+patch index (sd method):7.6434
+
+Xsize =
+
+   137   340
+
+
+Xsize =
+
+   340   137
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index (curve method):0.65883
+patch index (sd method):6.2879
+
+Xsize =
+
+   179   406
+
+
+Xsize =
+
+   406   179
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index (curve method):0.75417
+patch index (sd method):6.7286
+
+Xsize =
+
+    99   372
+
+
+Xsize =
+
+   372    99
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index (curve method):0.80021
+patch index (sd method):9.762
+
+Xsize =
+
+   148   459
+
+
+Xsize =
+
+   459   148
+
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index (curve method):0.55323
+patch index (sd method):7.7509
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index (curve method):0.011536
+patch index (sd method):0.1295
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index (curve method):0.27542
+patch index (sd method):7.6434
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index (curve method):0.65883
+patch index (sd method):6.2879
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index (curve method):0.75417
+patch index (sd method):6.7286
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index (curve method):0.80021
+patch index (sd method):9.762
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index (curve method):0.55323
+patch index (sd method):7.7509
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index (curve method):0.011536
+patch index (sd method):0.1295
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index (curve method):0.27542
+patch index (sd method):7.6434
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index (curve method):0.65883
+patch index (sd method):6.2879
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index (curve method):0.75417
+patch index (sd method):6.7286
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index (curve method):0.80021
+patch index (sd method):9.762
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index (curve method):0.55323
+patch index (sd method):7.7509
+quantipatch_SD
+e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists

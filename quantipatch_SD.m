@@ -37,9 +37,16 @@ files = files(~cellfun('isempty',files));
 
 % calculate the patch index
 
+record_curve = [];
+record_sd = [];
+
 for f = 1 : length(files)
     file = files{f};
-    [pi_curve, pi_sd] = patchindex(file);
+    [pi_curve, pi_sd] = patchindex_SD(file);
+    
+    record_curve(f) = pi_curve;
+    record_sd(f) = pi_sd;
+    
     disp('---------------------');
     disp(strcat('file: ',strcat(file)));
     
@@ -50,7 +57,15 @@ for f = 1 : length(files)
     disp(strcat('patch index (sd method): ', num2str(pi_sd)));
 end
 
+% figure;
+% plot(pi_curve, pi_sd);
+% xlabel('pi (curve method)')
+% ylabel('pi (sd method)')
 
-
-
-
+% figure;
+% plot(1:6, pi_curve);
+% title('pi (curve method)')
+% 
+% figure;
+% plot(1:6, pi_sd);
+% title('pi (sd method)')

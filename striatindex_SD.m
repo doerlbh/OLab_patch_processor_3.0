@@ -19,7 +19,7 @@ curve = sum(veclength, 2);
 si_curve = 1 - flat/mean(curve);
 
 % striate index from sd method
-
+si_sd = mean(std(X));
 
 end
 
