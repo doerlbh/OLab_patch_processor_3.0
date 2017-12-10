@@ -57,15 +57,3 @@ for f = 1 : length(files)
     disp(strcat('patch index (sd method): ', num2str(pi_sd)));
 end
 
-% figure;
-% plot(pi_curve, pi_sd);
-% xlabel('pi (curve method)')
-% ylabel('pi (sd method)')
-
-% figure;
-% plot(1:6, pi_curve);
-% title('pi (curve method)')
-% 
-% figure;
-% plot(1:6, pi_sd);
-% title('pi (sd method)')
