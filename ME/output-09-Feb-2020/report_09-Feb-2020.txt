@@ -1,0 +1,74 @@
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME
+09-Feb-2020
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/Control_Dim_A-sec2-origi-trim-grey-gblur6_2020.tif
+patch index (curve method):0.081707
+patch index (sd method):8.5477
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/Control_PAT47_2020.tif
+patch index (curve method):0.68037
+patch index (sd method):15.2782
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/Control_PAT_24_2020.tif
+patch index (curve method):0.87419
+patch index (sd method):13.6412
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/Ctrl-Fig2C_2020.tif
+patch index (curve method):0.38775
+patch index (sd method):13.2147
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/MEP20P21-6_sec4-5_lighten.tif
+patch index (curve method):0.029469
+patch index (sd method):0.4438
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P10DEV-PAT-8_original.tif
+patch index (curve method):-0.00071391
+patch index (sd method):0.54554
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P10DEV_PAT8.tif
+patch index (curve method):0.59762
+patch index (sd method):14.055
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P10MEP21-6_sec4-5_lighten,_enhance,_no_nudge.tif
+patch index (curve method):0.78475
+patch index (sd method):10.505
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P19ME-20.tif
+patch index (curve method):0.60989
+patch index (sd method):12.2039
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P19ME-20_rotated.tif
+patch index (curve method):0.51458
+patch index (sd method):11.1153
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/P19ME-20_sec_12-14_orig_multiply_rotated.tif
+patch index (curve method):0.055453
+patch index (sd method):1.2658
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/PAT4-orig-bw-gaus6.tif
+patch index (curve method):-0.0024698
+patch index (sd method):0.77839
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/PAT4-orig-equalize-bw-gaus6.tif
+patch index (curve method):0.17482
+patch index (sd method):20.5616
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/PAT4-orig-levels-bw-gaus6.tif
+patch index (curve method):0.021453
+patch index (sd method):6.0179
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/PAT4-orig-levels.tif
+patch index (curve method):0.21323
+patch index (sd method):6.2571
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/ME/PAT4-orig.tif
+patch index (curve method):0.0023594
+patch index (sd method):0.80679
+---------------------
+control mean and std - first four images
+patch index (curve method):0.506 +/-0.3464
+patch index (sd method):12.6705 +/-2.8888
+---------------------
+non-control mean and std - last twelve images
+patch index (curve method):0.25004 +/-0.29232
+patch index (sd method):7.0463 +/-6.6474

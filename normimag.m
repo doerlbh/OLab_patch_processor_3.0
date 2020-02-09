@@ -6,7 +6,7 @@
 
 function normalizedImage = normimag(image)
 
-normalizedImage = 50*image/mean(mean(image));
+normalizedImage = 50*image /mean(mean(image));
 
 % 50 is an arbitrary number to choose, but it does a good job.
 

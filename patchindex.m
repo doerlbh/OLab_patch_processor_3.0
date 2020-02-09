@@ -7,6 +7,10 @@
 function pi = patchindex(file)
 
 image = imread(file);
+if length(size(image)) == 3
+   image = rgb2gray(image(:,:,1:3));
+end
+
 image = cast(image,'double'); 
 image = normimag(image);
 xindex = striatindex(image.');

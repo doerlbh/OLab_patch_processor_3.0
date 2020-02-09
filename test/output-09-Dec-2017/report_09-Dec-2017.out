@@ -628,3 +628,29 @@ quantipatch_SD
 e.g.  /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
 What is your folder?: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
 mkdir: /Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/output-09-Dec-2017: File exists
+/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test
+09-Dec-2017
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original-level-crop_average-1.tif
+patch index (curve method):0.011536
+patch index (sd method):0.1295
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/Ctrl-ODC-1-original_1_trim-grey.tif
+patch index (curve method):0.27542
+patch index (sd method):7.6434
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDn-12-ipsi3,4-clean-trim-grey.tif
+patch index (curve method):0.65883
+patch index (sd method):6.2879
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P20MDnd-73-ipsi13-scale-trim-grey.tif
+patch index (curve method):0.75417
+patch index (sd method):6.7286
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/P21MDd-100-ipsi5-scale-4pxOutlierRemoved-trim-grey.tif
+patch index (curve method):0.80021
+patch index (sd method):9.762
+---------------------
+file:/Users/DoerLBH/Dropbox/git/OLab_patch_processor_3.0/test/ctrl-ODC-4-section-2-original-trim-grey.tif
+patch index (curve method):0.55323
+patch index (sd method):7.7509

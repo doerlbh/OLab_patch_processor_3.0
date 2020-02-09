@@ -8,6 +8,10 @@
 function [pi_curve, pi_sd] = patchindex_SD(file)
 
 image = imread(file);
+if length(size(image)) == 3
+   image = rgb2gray(image(:,:,1:3));
+end
+
 image = cast(image,'double'); 
 image = normimag(image);
 [xsi_curve, xsi_sd] = striatindex_SD(image.');
